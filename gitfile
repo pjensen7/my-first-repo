@@ -1,0 +1,17 @@
+commit 4b49ade10af19a37215d74ebc91846dc82024001
+Author: pjensen7 <paul.jensen@datadobi.com>
+Date:   Mon May 14 08:50:27 2018 -0700
+
+    added gitignore
+
+commit 3eaded62ae2e92cd318a1c7fd92d7e057166d8d4
+Author: pjensen7 <paul.jensen@datadobi.com>
+Date:   Fri May 11 16:25:34 2018 -0700
+
+    Added two new files and made changes to existing file for second time
+
+commit f31047d90f0180589a1f5e01e499a81ddcec2495
+Author: pjensen7 <paul.jensen@datadobi.com>
+Date:   Fri May 11 16:15:30 2018 -0700
+
+    added readme.txt file to GIT
